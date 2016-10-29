@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Raul
+ * @author Raul Andrade
  */
 public class ConsultMysql {
     
